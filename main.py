@@ -10,3 +10,4 @@ for i in range(panjang_password):
     password = password + karakter_acak
 
 print(password)
+#code written by lyvo
